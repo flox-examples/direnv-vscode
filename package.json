@@ -1,8 +1,8 @@
 {
 	"name": "direnv",
-	"displayName": "direnv",
+	"displayName": "Flox plugin",
 	"description": "unclutter your .profile",
-	"version": "0.17.0",
+	"version": "0.17.3",
 	"preview": true,
 	"icon": "assets/icon.png",
 	"maintainers": [
@@ -19,9 +19,13 @@
 		{
 			"name": "mkhl",
 			"url": "https://github.com/mkhl"
+		},
+		{
+			"name": "tomberek",
+			"url": "https://github.com/tomberek"
 		}
 	],
-	"publisher": "mkhl",
+	"publisher": "tomberek",
 	"license": "0BSD",
 	"repository": {
 		"type": "git",
